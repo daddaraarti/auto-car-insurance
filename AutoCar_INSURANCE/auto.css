@@ -1,0 +1,875 @@
+#bgpicture{
+    background-image: url('image/adv_bg.jpg');
+    height: 814px;
+    width: 917px;
+    padding-top: 14px;
+}
+#logo{
+    width: 262px;
+    height: 60px;
+    margin-left: 10px;
+    background-image: url('image/adv_logo_hd.gif');
+    background-repeat: no-repeat;
+    float: left;
+}
+ #logo h6{
+  font-size: 13px;
+    margin-left: 163px;
+    margin-top: 31px;
+    color: #111719;
+    font-style: initial;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} 
+#ustate{
+    border: 1px solid black;
+    width: 144px;
+    height: 17px;
+    margin-left: 70px;
+}
+#s1{
+  border: 1px solid black;
+  height: 28px;
+  width: 191px;
+  margin-top: 19px;
+  margin-left: 600px;
+}
+#eng{
+    padding-top: 0px;
+    border: 1px solid black;
+    width: 128px;
+    height: 17px;
+ }
+#searchs{
+     display: inline-block;
+ }
+#topouter{
+     height: 67px;
+ }
+#top2{
+   width: 567px;
+  height: 22px;
+  margin-left: 15px;
+  margin-top: 19px;
+  display: inline-block;
+ }
+ #text{
+  margin:3px;
+}
+#nav{
+list-style-type: none;
+}
+#nav ul {
+list-style-type: none;
+padding: 0px;
+margin:0px;
+width: flex;
+}
+#nav ul li{
+display: inline-block;
+}
+#nav ul li a{
+  color: black;
+  text-align: left;
+  padding: 6px 23px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 1px;
+  background-color:lightblue;
+}
+#nav ul li a:hover {
+  background-color:cornflowerblue;
+}
+#box3{
+ 
+  height: 30px;
+  width: 844px;
+  margin-top: 16px;
+}
+#box3 #a{
+    margin-top: 2px;
+    height: 30px;
+    width: 182px;
+    padding: 2px;
+    margin-left: 2px;
+    float:left;
+    font-size: 2px;
+    text-align: center;
+    background-color: lightblue;
+}
+#box3 #a #pic{
+  background-image: url('image/resStepDivider.gif');
+    height: 32px;
+    width: 9px;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+    margin-top: -15px;
+    margin-left: 175px;
+    
+}
+#box3 #b{
+  margin-top: 2px;
+    height: 30px;
+    width: 263px;
+    padding: 2px;
+    float:left;
+    font-size: 2px;
+    text-align: center;
+    background-color: steelblue;
+}
+#box3 #b #pic2{
+  background-image: url('image/resStepDividerActive.gif');
+    height: 32px;
+    width: 9px;
+    background-repeat: no-repeat;
+    padding-top: 0px;
+    margin-top: -15px;
+    margin-left: 256px;
+    
+}
+#box3 #c{
+  margin-top: 2px;
+    
+    height: 30px;
+    width: 183px;
+    padding: 2px;
+    margin-left: 2px;
+    float:left;
+    font-size: 2px;
+    text-align: center;
+}
+#box3 #d{
+  margin-top: 2px;
+  height: 30px;
+    width: 183px;
+    padding: 2px;
+    margin-left: 2px;
+    float:left;
+    font-size: 2px;
+    text-align: center;
+}
+#detail{
+  height: 452px;
+  width: 632px;
+  margin-top: 16px;
+  float:left;
+}
+#detail #aa{
+  height: 91px;
+  width: 632px;
+  background-color: white;
+}
+#detail #dd{
+  height: 90px;
+  width: 632px;
+}
+#detail #ee{
+  height: 88px;
+  width: 632px;
+  background-color: white;
+}
+#detail #aa #aa1{
+  
+    height: 88px;
+    width: 111px;
+    margin-left: 10px;
+    float: left;
+    font-size: 16px;
+    text-align:center;
+}
+#detail #aa #aa1 #img{
+    
+    height: 19px;
+    width: 59px;
+    font-size: 2px;
+    text-align: center;
+    margin-left: 23px;
+    background-repeat: no-repeat;
+    background-image: url('image/selected_btn.gif');
+}
+#detail #aa #aa1 h1{
+  font-size: 2px;
+    text-align: center;
+    margin-top: 9px;
+}
+ #detail #aa #aa2{
+  
+    height: 88px;
+    width: 154px;
+    margin-left:20px;
+    float: left;
+
+}
+#detail #aa #aa2 #img2{
+  background-image: url('image/car2.jpg');
+  height: 77px;
+  width: 168px;
+  background-repeat: no-repeat;
+}
+#detail #aa #aa2 h1{
+  font-size: 2px;
+    text-align: center;
+    margin-top: px;
+}
+ #detail #aa #aa3{
+  height: 88px;
+  width: 164px;
+  margin-left: 20px;
+  float: left;
+ }
+#detail #aa #aa3 #img3{
+    background-image: url('image/icon_man.gif');
+    height: 19px;
+    width: 8px;
+    background-repeat: no-repeat;
+    margin-left: 8px;
+    margin-top: 11px;
+    float: left;
+}
+#detail #aa #aa3 p{
+  font-size: 2px;
+  text-align: center;
+  margin-left: 13px;
+  margin-top: 12px;
+}
+#detail #aa #a1 #img4{
+  background-image: url('image/icon_sm_scase.gif');
+  height: 19px;
+   width: 15px;
+   background-repeat: no-repeat;
+   margin-top: 3px;
+   float: left;
+   margin-left: 7px;
+   
+}
+ #detail #aa  #a1 p{
+  font-size: 2px;
+  text-align: left;
+  margin-left: 48px;
+  margin-top: 9px;
+} 
+#detail #aa #a2 #img5{
+  background-image: url('image/suitcase-s.png');
+  height: 19px;
+   width: 22px;
+   background-repeat: no-repeat;
+   margin-top: 3px;
+   float: left;
+   margin-left: 4px;
+   
+}
+ #detail #aa  #a2 p{
+  font-size: 2px;
+  text-align: left;
+  margin-left: 48px;
+  margin-top: 9px;
+} 
+#detail #aa #aa4{
+  height: 70px;
+  width: 141px;
+  margin-left: 10px;
+  float: left;
+  font-size: 16px;
+  text-align:center;
+  padding-top: 4px;
+}
+#detail #aa #aa4 p{
+  font-size:2px;
+  margin-top: 6px;
+  inline-size: fit-content;
+}
+#detail #bb{
+  height: 92px;
+  width: 632px;
+  
+}
+#detail #bb #bb1{
+  height: 88px;
+  width: 111px;
+  margin-left: 10px;
+  float: left;
+  font-size: 16px;
+  text-align:center;
+}
+#detail #bb #bb1 #img{
+  height: 19px;
+  width: 59px;
+  font-size: 2px;
+  text-align: center;
+  margin-left: 23px;
+  background-repeat: no-repeat;
+  background-image: url('image/selected_btn.gif');
+}
+#detail #bb #bb1 h1{
+font-size: 2px;
+  text-align: center;
+  margin-top: 9px;
+}
+#detail #bb #bb2{
+
+  height: 88px;
+  width: 154px;
+  margin-left:20px;
+  float: left;
+
+}
+#detail #bb #bb2 #img2{
+background-image: url('image/car1.jpg');
+height: 77px;
+width: 168px;
+background-repeat: no-repeat;
+}
+#detail #bb #bb2 h1{
+font-size: 2px;
+  text-align: center;
+  margin-top: 0px;
+}
+#detail #bb #bb3{
+height: 88px;
+width: 164px;
+margin-left: 20px;
+float: left;
+}
+#detail #bb #bb3 #img3{
+  background-image: url('image/icon_man.gif');
+  height: 19px;
+  width: 8px;
+  background-repeat: no-repeat;
+  margin-left: 8px;
+  margin-top: 11px;
+  float: left;
+}
+#detail #bb #bb3 p{
+font-size: 2px;
+text-align: center;
+margin-left: 13px;
+margin-top: 12px;
+}
+#detail #bb #b1 #img4{
+background-image: url('image/icon_sm_scase.gif');
+height: 19px;
+ width: 15px;
+ background-repeat: no-repeat;
+ margin-top: 3px;
+ float: left;
+ margin-left: 7px;
+ 
+}
+#detail #bb  #b1 p{
+font-size: 2px;
+text-align: left;
+margin-left: 48px;
+margin-top: 9px;
+} 
+#detail #bb #b2 #img5{
+background-image: url('image/suitcase-s.png');
+height: 19px;
+ width: 22px;
+ background-repeat: no-repeat;
+ margin-top: 3px;
+ float: left;
+ margin-left: 4px;
+ 
+}
+#detail #bb  #b2 p{
+font-size: 2px;
+text-align: left;
+margin-left: 48px;
+margin-top: 9px;
+} 
+#detail #bb #bb4{
+height: 70px;
+width: 141px;
+margin-left: 10px;
+float: left;
+font-size: 16px;
+text-align:center;
+padding-top: 4px;
+}
+#detail #bb #bb4 p{
+font-size:2px;
+margin-top: 6px;
+inline-size: fit-content;
+}
+#detail #cc{
+  height: 88px;
+  width: 632px;
+  background-color: white;
+}
+#detail #cc #cc1{
+  height: 88px;
+  width: 111px;
+  margin-left: 10px;
+  float: left;
+  font-size: 16px;
+  text-align:center;
+}
+#detail #cc #cc1 #img{
+  height: 19px;
+  width: 59px;
+  font-size: 2px;
+  text-align: center;
+  margin-left: 23px;
+  background-repeat: no-repeat;
+  background-image: url('image/selected_btn.gif');
+}
+#detail #cc #cc1 h1{
+font-size: 2px;
+  text-align: center;
+  margin-top: 9px;
+}
+#detail #cc #cc2{
+  height: 88px;
+  width: 154px;
+  margin-left:20px;
+  float: left;
+}
+#detail #cc #cc2 #img2{
+background-image: url('image/car3.jpg');
+height: 77px;
+width: 168px;
+background-repeat: no-repeat;
+}
+#detail #cc #cc2 h1{
+font-size: 2px;
+  text-align: center;
+  margin-top: 0px;
+}
+#detail #cc #cc3{
+height: 88px;
+width: 164px;
+margin-left: 20px;
+float: left;
+}
+#detail #cc #cc3 #img3{
+  background-image: url('image/icon_man.gif');
+  height: 19px;
+  width: 8px;
+  background-repeat: no-repeat;
+  margin-left: 8px;
+  margin-top: 11px;
+  float: left;
+}
+#detail #cc #cc3 p{
+font-size: 2px;
+text-align: center;
+margin-left: 13px;
+margin-top: 12px;
+}
+#detail #cc #c1 #img4{
+background-image: url('image/icon_sm_scase.gif');
+height: 19px;
+ width: 15px;
+ background-repeat: no-repeat;
+ margin-top: 3px;
+ float: left;
+ margin-left: 7px;
+ 
+}
+#detail #cc  #c1 p{
+font-size: 2px;
+text-align: left;
+margin-left: 48px;
+margin-top: 9px;
+} 
+#detail #cc #c2 #img5{
+background-image: url('image/suitcase-s.png');
+height: 19px;
+ width: 22px;
+ background-repeat: no-repeat;
+ margin-top: 3px;
+ float: left;
+ margin-left: 4px;
+ 
+}
+#detail #cc  #c2 p{
+font-size: 2px;
+text-align: left;
+margin-left: 48px;
+margin-top: 9px;
+} 
+#detail #cc #cc4{
+height: 70px;
+width: 141px;
+margin-left: 10px;
+float: left;
+font-size: 16px;
+text-align:center;
+padding-top: 4px;
+}
+#detail #cc #cc4 p{
+font-size:2px;
+margin-top: 6px;
+inline-size: fit-content;
+}
+#detail #dd{
+  height: 92px;
+  width: 632px;
+  
+}
+#detail #dd #bb1{
+  height: 88px;
+  width: 111px;
+  margin-left: 10px;
+  float: left;
+  font-size: 16px;
+  text-align:center;
+}
+#detail #dd #bb1 #img{
+  height: 19px;
+  width: 59px;
+  font-size: 2px;
+  text-align: center;
+  margin-left: 23px;
+  background-repeat: no-repeat;
+  background-image: url('image/selected_btn.gif');
+}
+#detail #dd #bb1 h1{
+font-size: 2px;
+  text-align: center;
+  margin-top: 9px;
+}
+#detail #dd #bb2{
+
+  height: 88px;
+  width: 154px;
+  margin-left:20px;
+  float: left;
+
+}
+#detail #dd #bb2 #img2{
+background-image: url('image/car1.jpg');
+height: 77px;
+width: 168px;
+background-repeat: no-repeat;
+}
+#detail #dd #bb2 h1{
+font-size: 2px;
+  text-align: center;
+  margin-top: 0px;
+}
+#detail #dd #bb3{
+height: 88px;
+width: 164px;
+margin-left: 20px;
+float: left;
+}
+#detail #dd #bb3 #img3{
+  background-image: url('image/icon_man.gif');
+  height: 19px;
+  width: 8px;
+  background-repeat: no-repeat;
+  margin-left: 8px;
+  margin-top: 11px;
+  float: left;
+}
+#detail #dd #bb3 p{
+font-size: 2px;
+text-align: center;
+margin-left: 13px;
+margin-top: 12px;
+}
+#detail #dd #b1 #img4{
+background-image: url('image/icon_sm_scase.gif');
+height: 19px;
+ width: 15px;
+ background-repeat: no-repeat;
+ margin-top: 3px;
+ float: left;
+ margin-left: 7px;
+ 
+}
+#detail #dd  #b1 p{
+font-size: 2px;
+text-align: left;
+margin-left: 48px;
+margin-top: 9px;
+} 
+#detail #dd #b2 #img5{
+background-image: url('image/suitcase-s.png');
+height: 19px;
+ width: 22px;
+ background-repeat: no-repeat;
+ margin-top: 3px;
+ float: left;
+ margin-left: 4px;
+ 
+}
+#detail #dd  #b2 p{
+font-size: 2px;
+text-align: left;
+margin-left: 48px;
+margin-top: 9px;
+} 
+#detail #dd #bb4{
+height: 70px;
+width: 141px;
+margin-left: 10px;
+float: left;
+font-size: 16px;
+text-align:center;
+padding-top: 4px;
+}
+#detail #dd #bb4 p{
+font-size:2px;
+margin-top: 6px;
+inline-size: fit-content;
+}
+
+#detail #ee #bb1{
+  height: 88px;
+  width: 111px;
+  margin-left: 10px;
+  float: left;
+  font-size: 16px;
+  text-align:center;
+}
+#detail #ee #bb1 #img{
+  height: 19px;
+  width: 59px;
+  font-size: 2px;
+  text-align: center;
+  margin-left: 23px;
+  background-repeat: no-repeat;
+  background-image: url('image/selected_btn.gif');
+}
+#detail #ee #bb1 h1{
+font-size: 2px;
+  text-align: center;
+  margin-top: 9px;
+}
+#detail #ee #bb2{
+
+  height: 88px;
+  width: 154px;
+  margin-left:20px;
+  float: left;
+
+}
+#detail #ee #bb2 #img2{
+background-image: url('image/car5.jpg');
+height: 77px;
+width: 168px;
+background-repeat: no-repeat;
+}
+#detail #ee #bb2 h1{
+font-size: 2px;
+  text-align: center;
+  margin-top: 0px;
+}
+#detail #ee #bb3{
+height: 88px;
+width: 164px;
+margin-left: 20px;
+float: left;
+}
+#detail #ee #bb3 #img3{
+  background-image: url('image/icon_man.gif');
+  height: 19px;
+  width: 8px;
+  background-repeat: no-repeat;
+  margin-left: 8px;
+  margin-top: 11px;
+  float: left;
+}
+#detail #ee #bb3 p{
+font-size: 2px;
+text-align: center;
+margin-left: 13px;
+margin-top: 12px;
+}
+#detail #ee #b1 #img4{
+background-image: url('image/icon_sm_scase.gif');
+height: 19px;
+ width: 15px;
+ background-repeat: no-repeat;
+ margin-top: 3px;
+ float: left;
+ margin-left: 7px;
+ 
+}
+#detail #ee  #b1 p{
+font-size: 2px;
+text-align: left;
+margin-left: 48px;
+margin-top: 9px;
+} 
+#detail #ee #b2 #img5{
+background-image: url('image/suitcase-s.png');
+height: 19px;
+ width: 22px;
+ background-repeat: no-repeat;
+ margin-top: 3px;
+ float: left;
+ margin-left: 4px;
+ 
+}
+#detail #ee  #b2 p{
+font-size: 2px;
+text-align: left;
+margin-left: 48px;
+margin-top: 9px;
+} 
+#detail #ee #bb4{
+height: 70px;
+width: 141px;
+margin-left: 10px;
+float: left;
+font-size: 16px;
+text-align:center;
+padding-top: 4px;
+}
+#detail #ee #bb4 p{
+font-size:2px;
+margin-top: 6px;
+inline-size: fit-content;
+}
+
+#bgpicture #ads{
+  
+    height: 259px;
+    width: 280px;
+    float: left;
+    margin-top: 16px;
+  }
+  #bgpicture #ads h1{
+    font-size: 3px;
+    margin-left: 16px;
+    margin-top:11px
+  }
+  #bgpicture #ads h6{
+    font-size:2px;
+    margin-left: 16px;
+  }
+  #bgpicture #ads p{
+    font-size:2px;
+    margin-left: 16px;
+  }
+  #bgpicture #image1{
+    background-image: url('image/offer.gif');
+    height:200px;
+    width:280px;
+    float: left;
+  }
+  #bgpicture #bottom{
+    
+    height: 178px;
+    width: 913px;
+  }
+  #bgpicture #bottom #f1{
+    height: 176px;
+    width: 349px;
+    float: left;
+  }
+  #bgpicture #bottom #f1 h1{
+    font-size: 8px;
+    float: left;
+    margin-left: 40px;
+  }
+  #bgpicture #bottom #f1 #signup{
+    height: 22px;
+    width: 265px;
+    margin-top: 24px;
+    margin-left: 38px;  
+  }
+  input[type=submit] {
+    width: 56px;
+    background-color: darkslateblue;
+    color: white;
+  }
+  #bgpicture #bottom #f1 #d{
+    height: 30px;
+    width: 30px;
+    margin: 12px;
+    float: left;
+    margin-left: 36px;
+    background-repeat: no-repeat;
+    background-image:url('image/facebook.png');
+  }
+  #bgpicture #bottom #f1  #e{
+    float:left;
+    height: 30px;
+    width: 23px;
+    margin:10px;
+    padding-left: 7px;
+    background-repeat: no-repeat;
+    background-image:url('image/twitter.png');
+  }
+  #bgpicture #bottom #f1  #f{
+    float: left;
+    height: 30px;
+    width: 37px;
+    margin: 10px;
+    padding-left: 7px;
+    background-repeat: no-repeat;
+    background-image:url('image/youtube.png');
+  }
+  #bgpicture #bottom #f1  #g{
+    float: left;
+    height: 30px;
+    width: 37px;
+    margin-top: 10px;
+    margin-left: 0px;
+    background-repeat: no-repeat;
+    background-image:url('image/facebook.png');
+  }
+  #bgpicture #bottom #f1 #remote{
+    
+    height:20px;
+    width:60px;
+    float:left;
+  }
+  #bgpicture #bottom #f2{
+    
+    height: 177px;
+    width: 588px;
+    margin-left: 324px;
+  }
+  #bgpicture #bottom #f2 #x{
+    
+    height: 176px;
+    width: 169px;
+    float: left;
+  }
+  #bgpicture #bottom #f2 #y{
+    
+    height: 176px;
+    width: 188px;
+    float: left;
+    margin-left: 5px;
+  }
+   #bgpicture #bottom #f2 #z{
+    
+    height: 176px;
+    width: 201px;
+    float:left;
+  }
+  #bgpicture #bottom #f2 #x h1{
+    font-size: 14px;
+  }
+  #bgpicture #bottom #f2 #x p{
+    font-size: 2px;
+  }
+  #bgpicture #bottom #f2 #y h1{
+    font-size: 14px;
+  }
+  #bgpicture #bottom #f2 #y p{
+    font-size: 2px;
+  }
+  #bgpicture #bottom #f2 #z p{
+    font-size: 7px;
+  }
+  #bgpicture #bottom #end{
+    height:15px;
+    width: 814px;
+    margin-left: 42px;
+    font-size:2px
+  }
+  h2.price{
+    font-size:18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  p.pa{
+    font-size:2px;
+  }
+  
